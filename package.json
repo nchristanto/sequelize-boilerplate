@@ -1,0 +1,19 @@
+{
+  "name": "sequilize-boilerplate",
+  "version": "1.0.0",
+  "description": "Project mySQL",
+  "main": "index.js",
+  "author": "Chris",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "json": "^9.0.6",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.8.5",
+    "token": "^0.1.0",
+    "web": "^0.0.2"
+  }
+}
